@@ -16,19 +16,20 @@
 
 ## 🌐 Socials:
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://facebook.com/malmiwithanage" target="_blank" title="Facebook">
+  <a href="https://facebook.com/malmiwithanage" target="_blank" title="Facebook" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
   </a>
-  <a href="https://instagram.com/mei_nyx_" target="_blank" title="Instagram">
+  <a href="https://instagram.com/mei_nyx_" target="_blank" title="Instagram" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://linkedin.com/in/malmi-withanage-" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/malmi-withanage-" target="_blank" title="LinkedIn" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:malmiwithanage@gmail.com" title="Email">
+  <a href="mailto:malmiwithanage@gmail.com" title="Email" style="text-decoration: none; display: inline-block;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
   </a>
 </div>
+
 
 ###
 
