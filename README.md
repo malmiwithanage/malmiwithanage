@@ -1,4 +1,10 @@
 <div align="center">
+  
+<div align="center">
+  <img src="https://profile-counter.glitch.me/malmiwithanage/count.svg?"  />
+</div>
+
+###
 
 # 💫 About Me
 👀 I’m interested in 3D web development<br><br>
