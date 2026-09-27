@@ -3,10 +3,8 @@
 ###
 
 # 💫 About Me
-👀 I’m interested in 3D web development<br><br>
-🌱 I’m currently learning .NET<br><br>
-🔭 I’m currently working on Digital Vehicle Fine Management System<br><br>
-👨‍💻 All of my projects are available at [malmiwithanageportfolio.netlify.app](https://malmiwithanageportfolio.netlify.app)<br><br>
+👀 Software engineer working on secure, multi-tenant systems and applied ML.<br><br>
+=👨‍💻 All of my projects are available at [malmiwithanageportfolio.netlify.app](https://malmiwithanageportfolio.netlify.app)<br><br>
 📫 How to reach me **malmiwithanage@gmail.com**<br><br>
 ⚡ Fun fact: Passionate about psychology
 
